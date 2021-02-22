@@ -292,7 +292,7 @@ class App extends React.Component {
                     <DrumMachine/>
                 </CardContent>
                 <CardActions>
-                    <IconButton href={""}><GitHub/></IconButton>
+                    <IconButton href={"https://github.com/AxanIqbal/Drum-Machine-React"}><GitHub/></IconButton>
                 </CardActions>
             </Card>
         );
